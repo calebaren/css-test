@@ -1,0 +1,13 @@
+body {
+	background: gray;
+}
+
+#content {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+}
